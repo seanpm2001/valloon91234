@@ -2,9 +2,9 @@
 <br/>
 
 ## About Me
-👋 Hi. I'm Maksim Smirnov. I'd like to call me "PASSIONATE PROGRAMMER".
+👋 Hi. I'm Nikolai Bersh. I'd like to call me "PASSIONATE PROGRAMMER".
 
-👀 I’m interested in Web/Blockchain, Security, Trading and so on.
+👀 I’m interested in Java, Web, Blockchain, Web Security, Trading and so on.
 
 🌱 I’m currently learning next generation of blockchain network.
 
@@ -23,7 +23,7 @@
 
 # Here's my details:
 
-* Web
+* Web/Java
 
         8 years of experience in web development, backend(Java Spring/Spring Boot, NodeJS) and frontend(ReactJS).
         I mastered in W3C and SEO protocols. I am excellent in frontend responsive & browser/mobile sensitive design.
