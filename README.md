@@ -10,6 +10,9 @@
 
 💞️ I’m looking to collaborate on blockchain development and trading.
 
+[<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=richforest0506&show_icons=true&theme=material-palenight" alt="Welly's github stats" />](#)
+[<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richforest0506&layout=compact&theme=material-palenight" alt="Welly's top languages" />](#)
+
 <br/>
 
 ## 📫 How to reach me:
@@ -18,6 +21,8 @@
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />&ensp; devsgod8@gmail.com](https://mailto:devsgod8@gmail.com)
 
 [<img src="https://img.icons8.com/color/1x/skype--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; live:.cid.7857b37d1ddf75f3](https://join.skype.com/invite/xNtwgM51SF91)
+
+[<img src="https://img.icons8.com/color/1x/telegram--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; @valloon427428](https://t.me/valloon427428)
 
 <br/>
 
