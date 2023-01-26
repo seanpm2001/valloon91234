@@ -1,14 +1,11 @@
-# Welcome
+# Welcome ★
 <br/>
 
 ## About Me
-👋 Hi. I'm Nikolai Bersh. I'd like to call me "PASSIONATE PROGRAMMER".
 
 👀 I’m interested in Java, Web, Blockchain, Web Security, Trading and so on.
-
 🌱 I’m currently learning next generation of blockchain network.
-
-💞️ I’m looking to collaborate on blockchain development and trading.
+💞️ I’m looking to collaborate on web/blockchain development and trading.
 
 [<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=valloon91234&show_icons=true&theme=material-palenight" alt="Welly's github stats" />](#)
 [<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valloon91234&layout=compact&theme=material-palenight" alt="Welly's top languages" />](#)
