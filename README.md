@@ -10,8 +10,8 @@
 
 💞️ I’m looking to collaborate on blockchain development and trading.
 
-[<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=richforest0506&show_icons=true&theme=material-palenight" alt="Welly's github stats" />](#)
-[<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richforest0506&layout=compact&theme=material-palenight" alt="Welly's top languages" />](#)
+[<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=valloon91234&show_icons=true&theme=material-palenight" alt="Welly's github stats" />](#)
+[<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valloon91234&layout=compact&theme=material-palenight" alt="Welly's top languages" />](#)
 
 <br/>
 
