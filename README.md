@@ -18,7 +18,7 @@
 ## 📫 How to reach me:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />&ensp; valloon91234](https://github.com/valloon91234)
 
-[<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />&ensp; devsgod8@gmail.com](https://mailto:devsgod8@gmail.com)
+[<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />&ensp; valloon91234@gmail.com](https://mailto:valloon91234@gmail.com)
 
 [<img src="https://img.icons8.com/color/1x/skype--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; live:.cid.7857b37d1ddf75f3](https://join.skype.com/invite/xNtwgM51SF91)
 
