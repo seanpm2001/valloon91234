@@ -28,22 +28,23 @@
 
 # Here's my details:
 
-* Web/Java
+* Web/Web3/E-Commerce
 
-        8 years of experience in web development, backend(Java Spring/Spring Boot, NodeJS) and frontend(ReactJS).
+        9 years of experience in Web/Web3/E-Commerce development including frontend, backend and database.
         I mastered in W3C and SEO protocols. I am excellent in frontend responsive & browser/mobile sensitive design.
+        I have solid experience in web/email hosting and server management.
 
 
 * Blockchain
 
         Blockchain is my most favourite and confident major.
-        I am excellent at Solidity Backend + Web3 Frontend.
+        I am excellent at Solidity, Rust NFT and so on.
 
 
-* C#/.NET, Java
+* C#/.NET, Java, Python
 
         I major in OOP, especially Java and C# including its byte code.
-        I have solid experience in developing web backend server with JAVA and Windows Apps with C#.
+        I have solid experience in developing web/game backend, microservices and desktop apps with JAVA C# and Python.
 
 
 * x86/x64 Assembly, Java byte code, Java smali, .Net IL
@@ -54,14 +55,14 @@
 
 * Web Scraping / Automation
 
-        I have solid experience in various kinds of scraping and automation with C#, Scrapy, Selenium, AutoIt and so on.
-        I have experience in desktop, data entry/processing, and other various automation.
+        I have solid experience in various kinds of scraping and automation with C#, Python, Scrapy, Selenium, AutoIt and so on.
+        I have experience in web/desktop, data entry/processing, and other various automations.
 
 
 * Database
 
-        I major in various databases such as MySQL, Oracle DB, MS SQL Server, MongoDB, SQLite.
-        And I have experience in Apache Solr search engine.
+        I major in various databases such as MySQL, Oracle DB, MS SQL Server, MongoDB, Redis and so on.
+        And I have experience in Apache Solr and Elastic Search engine.
 
 
 * Trading & Trading Bot
