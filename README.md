@@ -3,16 +3,16 @@
 
 ## About Me
 
-👀 I’m interested in Java, Web, Blockchain, Web Security, Trading and so on.
+👀 I’m interested in Web, Blockchain, E-Commerce, Game, Desktop App, Automation and so on.
 
-🌱 I’m currently learning next generation of blockchain network.
+🌱 I’m currently learning next blockchain technologies.
 
-💞️ I’m looking to collaborate on web/blockchain development and trading.
+💞️ I’m looking to collaborate in developing innovative software.
 
-
+<!--
 [<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=valloon91234&show_icons=true&theme=material-palenight" alt="Welly's github stats" />](#)
 [<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valloon91234&layout=compact&theme=material-palenight" alt="Welly's top languages" />](#)
-
+-->
 <br/>
 
 ## 📫 How to reach me:
@@ -64,10 +64,10 @@
         And I have experience in Apache Solr search engine.
 
 
-* Crypto trading & Crypto trading bot
+* Trading & Trading Bot
 
-        I am a crypto trader and I have 2+ years of crypto margin trading.
-        And I have my own crypto trading bot on BitMEX and Bybit.
+        I am a experienced trader and I have years of experience in Spot/Deriverties/Futures trading.
+  
 
 [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />](#)
