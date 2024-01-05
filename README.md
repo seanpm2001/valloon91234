@@ -22,7 +22,7 @@
 
 [<img src="https://img.icons8.com/color/1x/skype--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; live:.cid.7857b37d1ddf75f3](https://join.skype.com/invite/xNtwgM51SF91)
 
-[<img src="https://img.icons8.com/color/1x/telegram-app--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; @valloon427428](https://t.me/valloon427428)
+[<img src="https://img.icons8.com/color/1x/telegram-app--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; @valloon508](https://t.me/valloon508)
 
 <br/>
 
