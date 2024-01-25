@@ -30,9 +30,8 @@
 
 * Web/Web3/E-Commerce
 
-        9 years of experience in Web/Web3/E-Commerce development including frontend, backend and database.
+        Experience in Web/Web3/E-Commerce development including frontend, backend, database and web/email hosting.
         I mastered in W3C and SEO protocols. I am excellent in frontend responsive & browser/mobile sensitive design.
-        I have solid experience in web/email hosting and server management.
 
 
 * Blockchain
@@ -44,13 +43,12 @@
 * C#/.NET, Java, Python
 
         I major in OOP, especially Java and C# including its byte code.
-        I have solid experience in developing web/game backend, microservices and desktop apps with JAVA C# and Python.
+        I have experience in developing web/game backend, microservices and desktop apps with JAVA C# and Python.
 
 
 * x86/x64 Assembly, Java byte code, Java smali, .Net IL
 
-        I am an Assembly & byte code expert and I have solid experience in reversing/cracking/patching.
-        I have solid experience in analyzing Windows EXE/DLL, Jara JAR/DEX, C# IL binaries.
+        I am an Assembly & byte code expert and I have good experience in reversing/cracking/patching.
 
 
 * Web Scraping / Automation
