@@ -30,7 +30,7 @@
 
 * Web/Web3/E-Commerce
 
-        Experience in Web/Web3/E-Commerce development including frontend, backend, database and web/email hosting.
+        Experienced in Web/Web3/E-Commerce development including frontend, backend, database and web/email hosting.
         I mastered in W3C and SEO protocols. I am excellent in frontend responsive & browser/mobile sensitive design.
 
 
