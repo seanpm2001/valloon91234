@@ -53,7 +53,7 @@
 
 * Web Scraping / Automation
 
-        I have solid experience in various kinds of scraping and automation with C#, Python, Scrapy, Selenium, AutoIt and so on.
+        I have solid experience in various scraping and automation with C#, Python, Selenium, AutoIt and so on.
         I have experience in web/desktop, data entry/processing, and other various automations.
 
 
